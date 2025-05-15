@@ -27,15 +27,15 @@ Introduce briefly
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 12 May 2025
+From: 05 May 2025 - To: 13 May 2025
 
-Total Time: 2 hrs 27 mins
+Total Time: 2 hrs 31 mins
 
-Python     1 hr 39 mins    █████████████████░░░░░░░░   67.55 %
-Markdown   30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-YAML       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-JSON       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python     1 hr 39 mins    ████████████████▒░░░░░░░░   65.80 %
+Markdown   30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+JSON       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+YAML       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
