@@ -27,15 +27,15 @@ Introduce briefly
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2025 - To: 28 May 2025
+From: 05 May 2025 - To: 29 May 2025
 
-Total Time: 8 hrs 21 mins
+Total Time: 13 hrs 47 mins
 
-TypeScript   2 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
-YAML         1 hr 59 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Python       1 hr 39 mins    █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Markdown     1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-Vue.js       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Vue.js       4 hrs 25 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
+TypeScript   3 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+YAML         2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Markdown     1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+Python       1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
 ```
 
 <!--END_SECTION:waka-->
